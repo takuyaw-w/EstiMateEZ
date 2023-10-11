@@ -4,5 +4,8 @@ export default defineNuxtConfig({
   plugins: [
     '~/plugins/vuetify/index.ts'
   ],
+  modules: [
+    '@vueuse/nuxt',
+  ],
   devtools: { enabled: true }
 })
