@@ -1,3 +1,8 @@
 {
+    "navigation": {
+        "folder": "フォルダ",
+        "tags": "タグ",
+        "create": "新規作成"
+    },
     "test": "テスト"
 }
